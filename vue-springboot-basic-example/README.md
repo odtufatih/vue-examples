@@ -1,5 +1,5 @@
 
-* This is a basic monolithic vue-js spring-boot application example.
+* This is a basic monolithic VueJS Spring-Boot application example.
 
 ### Steps For Local
 
@@ -24,7 +24,7 @@ The message will be retrieved from the backend spring boot application.
 
 ### Production
 
-* In production we can build the vuejs application into the spring boot application
+* In production we can build the VueJS application into the spring boot application
 and deploy as a single jar. We can use frontend-maven-plugin and maven-resources-plugin plugins for this.
   
 * <font color="blue">npm run build</font> command builds the vue project and produces index.html and static files
